@@ -1,2 +1,2 @@
 # Aggregate-search
-聚合搜索网站，可以通过一个请求返回不同类型的数据,后端代码
+聚合搜索网站后端代码，基于 Vue 3 + Spring Boot + Elastic Stack 的一站式聚合搜索平台，也是简化版的企业级搜索中台。
